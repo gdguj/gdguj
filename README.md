@@ -34,8 +34,8 @@ Our mission is to provide students and tech enthusiasts with opportunities to:
 ---
 
 ## 📬 Connect With Us  
-- Twitter/X: [@GDGOUJ](#https://x.com/GDGUOJ)  
-- LinkedIn: [GDG UJ](#https://www.linkedin.com/company/google-developer-student-club-uj)  
+- Twitter/X: ![@GDGOUJ](https://x.com/GDGUOJ)  
+- LinkedIn: ![GDG UJ](https://www.linkedin.com/company/google-developer-student-club-uj)  
 - Email: gdguj@gmail.com  
 
 ---
